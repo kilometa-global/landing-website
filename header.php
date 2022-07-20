@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Favicons -->
-  <link rel="icon" href="img/logo/fevi.png">
+  <link rel="icon" href="img/logo/logo.ico">
 
   <!-- Libs CSS -->
   <link rel="stylesheet" href="assets/libs/%40fancyapps/fancybox/dist/jquery.fancybox.min.css">
@@ -26,7 +26,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
 
 
-  <title>Taxi-App</title>
+  <title>Kilometa</title>
 
 </head>
 

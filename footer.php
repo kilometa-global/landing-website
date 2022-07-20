@@ -1,4 +1,4 @@
-<footer style="background: #489de4 !important;">
+<footer style="background: #a60808 !important;">
   <div class="pt-10 px-5 px-md-10">
     <div class="container-fluid text-white">
       <div class="row pt-md doot">
@@ -67,9 +67,6 @@
         <div class="col-md-6">
           <div class="copyright font-size-xs text-center text-md-left">
           © 2021 KiloMeta Technologies, LLC All rights reserved. 
-            <a href="http://misoftwares.com/" target="blank" class="text-dark">
-              Powered By Mi Softwares
-            </a>
           </div>
         </div>
         <div class="col-md-6">

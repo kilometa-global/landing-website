@@ -28,7 +28,7 @@
 </style>
 
 <div id="home" class="container-fluid mt-10">
-    <div class="row bg-cover" data-jarallax data-speed=".8" style="background:#489de4;">
+    <div class="row bg-cover" data-jarallax data-speed=".8" style="background: #a60808;">
         <div class="col-md-6 p-0">
             <img src="img/L1.png" alt="" class="w-100">
         </div>
