@@ -123,7 +123,7 @@
 
             <div class="col-md-4 m-auto">
                 <div class=" dan-card-30 card lift p-5 mb-md-0 ">
-                    <div class=" card-img-top position-relative mx-auto " style=" max-width: 120px; ">
+                    <div class=" card-img-top position-relative mx-auto " style=" max-width: 95px; ">
                         <img class=" img-fluid " src="img/ride/3.svg " alt=" ... ">
                     </div>
                     <div class=" card-body text-center ">
@@ -199,7 +199,7 @@
 
                 <!-- Item -->
                 <div class="w-100">
-                    <img src="img/s3.jpeg" alt="..." class="w-100">
+                    <img src="img/s3.jpg" alt="..." class="w-100">
                 </div>
             </div>
         </div>

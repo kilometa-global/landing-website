@@ -19,9 +19,9 @@
         border-top: 2px solid #01f0ff;
     }
 </style>
-<div class="row">
+<div class="row mx-auto container">
     <div class="col-10 m-auto pt-13">
-        <img src="img/road-to-zero-seat-belt.jpg" alt="" class="w-100">
+        <img src="img/road-to-zero-seat-belt.png" alt="" class="w-100">
     </div>
 </div>
 <div class="container my-10">
