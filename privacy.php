@@ -10,9 +10,9 @@
             </div>
             <div class="col-md-12 m-auto text-justify">
 
-                <h6>Last updated: April 06, 2022</h6>
+                <h6>Last updated: July 20, 2022</h6>
                 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
-                <br><br> We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Template.
+                <br><br> We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
                 <br><br>
 
                 <h2>Interpretation and Definitions</h2>
@@ -30,13 +30,13 @@
                         <b>Affiliate</b> means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
                     </li>
                     <li>
-                        <b>Application</b> means the software program provided by the Company downloaded by You on any electronic device, named TE24
+                        <b>Application</b> means the software program provided by the Company downloaded by You on any electronic device, named Kilometa
                     </li>
                     <li>
-                        <b>Company</b> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to TE24.
+                        <b>Company</b> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Kilometa.
                     </li>
                     <li>
-                        <b>Country</b> refers to: Côte d’Ivoire
+                        <b>Country</b> refers to: Nigeria.
                     </li>
                     <li>
                         <b>Device</b> means any device that can access the Service such as a computer, a cellphone or a digital tablet.
@@ -210,8 +210,8 @@
                 <h2>Contact Us</h2>
                 If you have any questions about this Privacy Policy, You can contact us: <br><br>
                 <ul>
-                    <li>By email: <a href="admin@te24ci.com" target="blank">admin@te24ci.com</a></li>
-                    <li>By visiting this page on our website: <a href="http://te24ci.com" target="blank">http://te24ci.com</a></li>
+                    <li>By email: <a href="contact@kilometa.com" target="blank">contact@kilometa.com</a></li>
+                    <li>By visiting this page on our website: <a href="http://kilometa.com" target="blank">http://kilometa.com</a></li>
                 </ul>
 
             </div>

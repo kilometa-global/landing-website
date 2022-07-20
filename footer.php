@@ -46,7 +46,7 @@
           <ul class="list-unstyled text-small">
             <li><a href="driver-how-driving-with-us-works.php" class="text-white opacity-80">How it works</a></li>
             <li><a href="driver-requirements.php" class="text-white opacity-80">Driver Requirements</a></li>
-            <li><a href="dmv.php" class="text-white opacity-80">DMV check</a></li>
+            <!-- <li><a href="dmv.php" class="text-white opacity-80">DMV check</a></li> -->
             <li><a href="safety.php" class="text-white opacity-80">Safety</a></li>
           </ul>
           <div class="row">

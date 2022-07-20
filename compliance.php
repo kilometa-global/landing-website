@@ -11,7 +11,7 @@
             <div class="col-md-12 m-auto text-justify">
 
                 <h3>I. OVERVIEW & SCOPE </h3>
-                Kilometa, LLC of 6255 TownCenter Drive Ste 819, Clemmons, North Carolina 27012, has established a Non-Discrimination and Equal Employment Opportunity Policy ("EEO"). This EEO policy applies to all aspects of the relationship between Kilometa, LLC and its employees, including, but not limited to, employment, recruitment, advertisements for employment, hiring and firing, compensation, assignment, classification of employees, termination, upgrading, promotions, transfer, training, working conditions, wages and salary administration, and employee benefits and application of policies. These policies apply to independent contractors, temporary employees, all personnel working on the premises, and any other persons or firms doing business for or with Kilometa, LLC. Any user found to have violated this prohibition will lose access to the Kilometa, LLC platform. Applicable laws in certain jurisdictions may require and/or allow the provision of services by and for the benefit of a specific category of persons. In such jurisdictions, services provided in compliance with these laws and the relevant applicable terms are permissible under this policy.
+                Kilometa, LLC of B1 Aka Plaza, East/West Road, Alakahia, Port Harcourt 500102 Nigeria., has established a Non-Discrimination and Equal Employment Opportunity Policy ("EEO"). This EEO policy applies to all aspects of the relationship between Kilometa, LLC and its employees, including, but not limited to, employment, recruitment, advertisements for employment, hiring and firing, compensation, assignment, classification of employees, termination, upgrading, promotions, transfer, training, working conditions, wages and salary administration, and employee benefits and application of policies. These policies apply to independent contractors, temporary employees, all personnel working on the premises, and any other persons or firms doing business for or with Kilometa, LLC. Any user found to have violated this prohibition will lose access to the Kilometa, LLC platform. Applicable laws in certain jurisdictions may require and/or allow the provision of services by and for the benefit of a specific category of persons. In such jurisdictions, services provided in compliance with these laws and the relevant applicable terms are permissible under this policy.
 
                 <br><br>
                 <h3>II. POLICIES</h3>
@@ -21,7 +21,7 @@
 
                 <br><br>
                 <h5>Discrimination in providing transportation services is strictly prohibited</h5>
-               Associated drivers and employees are required to know the non-discrimination prohibitions. Kilometa, LLC will not tolerate as to public accommodations, which includes taxicab services unlawful discriminatory practice to deny, directly or indirectly, any person the full and equal enjoyment of the goods, services, facilities, privileges, advantages, and accommodations of any place of public accommodations (including taxicab services) wholly or partially for a discriminatory reason based on place of residence or business. 
+               Associated drivers and employees are required to know the non-discrimination prohibitions. Kilometa, LLC will not tolerate as to public accommodations, which includes taxicab services unlawful discriminatory practice to deny, directly or indirectly, any person the full and equal enjoyment of the goods, services, facilities, privileges, advantages, and accommodations of any place of public accommodations (including kilometa services) wholly or partially for a discriminatory reason based on place of residence or business. 
 
                 <br><br>
                 <h5>Prohibited Discriminatory Conduct: </h5>
@@ -47,7 +47,7 @@
                
                 <br><br>
                 <h4>5. REPORTING DISCRIMINATION & HARASSMENT</h4>
-                 If an employee feels that he or she has been harassed as described in this policy, they should immediately file grievance with: Grievance Department, 6255 TownCenter Drive, Ste 819, Clemmons NC 27012, or by email at compliance@Kilometa.us. Once the matter has been reported it will be promptly investigated and any corrective action will be taken when deemed appropriate. All complaints or unlawful harassment under this policy or otherwise will be handled in as confidential a manner as possible. Timely reporting is encouraged to prevent the re-occurrence of, or otherwise address, the behavior that violates this policy or law. Delays in reporting a complaint can limit the type of effectiveness of a response by Kilometa, LLC. The procedure for reporting incidents of discriminatory or harassing behavior is not intended to prevent the right of any employee to seek a remedy under available state or federal law by immediately reporting the matter to the appropriate state or federal agency. 
+                 If an employee feels that he or she has been harassed as described in this policy, they should immediately file grievance with: Grievance Department, B1 Aka Plaza, East/West Road, Alakahia, Port Harcourt 500102 Nigeria, or by email at compliance@Kilometa.us. Once the matter has been reported it will be promptly investigated and any corrective action will be taken when deemed appropriate. All complaints or unlawful harassment under this policy or otherwise will be handled in as confidential a manner as possible. Timely reporting is encouraged to prevent the re-occurrence of, or otherwise address, the behavior that violates this policy or law. Delays in reporting a complaint can limit the type of effectiveness of a response by Kilometa, LLC. The procedure for reporting incidents of discriminatory or harassing behavior is not intended to prevent the right of any employee to seek a remedy under available state or federal law by immediately reporting the matter to the appropriate state or federal agency. 
 
 
               <br><br>
@@ -63,7 +63,7 @@
                Remedies for any instances of verified employment discrimination, whether caused intentionally or by actions that have a discriminatory effect, may include back pay, hiring, promotion, reinstatement, front pay, reasonable accommodation, or other actions deemed appropriate by Kilometa, LLC. Remedies can also include payment of attorney's fees, expert witness fees, court costs and other applicable legal fees. 
                 <br><br>
                 <h4>9. POLICY IMPLEMENTATION</h4>
-                Kilometa’s CEO, Lynn Graham, fully supports the implementation of this Policy effective as of April 19, 2021.
+                Kilometa’s CEO, fully supports the implementation of this Policy effective as of July 20, 2022.
 
                
                 

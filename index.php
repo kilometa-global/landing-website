@@ -32,10 +32,10 @@
         <div class="col-md-6 p-0">
             <img src="img/L1.png" alt="" class="w-100">
         </div>
-        <div class="col-md-6 py-10 py-md-0  m-auto">
-            <div class="text-center">
+        <div class="col-md-6 py-12 py-md-0  m-auto">
+            <div class="text-center text-lg">
                 <h1 class="text-white">
-                Connecting people with goods, services and ideas creates opportunities <br> to improves lives. Download Kilometa App Today.
+                Connecting people with services <br> & ideas create opportunity <br> to improve lives. <br> Download Kilometa App Today.
                 </h1>
                 <div class="row">
                     <div class="col-md-6 mb-5 text-md-right">
@@ -175,7 +175,7 @@
                     <!-- Card -->
                     <div class="card">
                         <h2>
-                            Safe and easy delivery throughout india
+                            Safe and easy delivery throughout Nigeria
                         </h2>
                     </div>
                 </div>

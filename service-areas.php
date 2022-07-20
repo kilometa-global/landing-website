@@ -36,65 +36,19 @@
 
             <div class="col-12 col-md pt-5">
                 <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/3.png" alt="..." class="card-img-top">
+                    <img src="img/location/1.jpg" alt="..." class="card-img-top">
                 </div>
             </div>
             <div class="col-12 col-md pt-5">
                 <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/4.png" alt="..." class="card-img-top">
+                    <img src="img/location/2.jpg" alt="..." class="card-img-top">
                 </div>
             </div>
             <div class="col-12 col-md pt-5">
                 <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/5.png" alt="..." class="card-img-top">
+                    <img src="img/location/3.jpg" alt="..." class="card-img-top">
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-12 col-md pt-5">
-                <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/6.png" alt="..." class="card-img-top">
-                </div>
-            </div>
-            <div class="col-12 col-md pt-5">
-                <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/7.png" alt="..." class="card-img-top">
-                </div>
-            </div>
-            <div class="col-12 col-md pt-5">
-                <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/8.png" alt="..." class="card-img-top">
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-12 col-md pt-5">
-                <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/9.png" alt="..." class="card-img-top">
-                </div>
-            </div>
-            <div class="col-12 col-md pt-5">
-                <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/10.jpeg" alt="..." class="card-img-top">
-                </div>
-            </div>
-            <div class="col-12 col-md pt-5">
-                <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/11.png" alt="..." class="card-img-top">
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-12 col-md-4 m-auto pt-5">
-                <div class="card mb-7 mb-md-0 shadow  shadow shadow-hover lift border">
-                    <img src="img/location/12.png" alt="..." class="card-img-top">
-                </div>
-            </div>
-
-
         </div>
     </div>
     </div>

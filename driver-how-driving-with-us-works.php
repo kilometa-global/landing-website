@@ -41,7 +41,7 @@
     }
 </style>
 
-<section class="py-15 mt-10" id="welcome" data-jarallax data-speed=".8" style="background-image: url(img/7.png);">
+<section class="py-15 mt-10" id="welcome" data-jarallax data-speed=".8" style="background-image: url(img/7.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-7 col-lg-5 text-white">
@@ -63,7 +63,7 @@
         </div>
         <div class="col-6 col-md-2 p-0 text-center">
             <a data-fancybox="driver" href="img/drive/1.png">
-                <img src="img/drive/1-s.png" alt="Your-Brand,-Your-Logo" class="w-50 w-md-100">
+                <img src="img/drive/1-s.jpg" alt="Your-Brand,-Your-Logo" class="w-50 w-md-100">
             </a>
         </div>
         <div class="col-md-6 m-auto font-weight-lighter pt-5 pt-md-10 text-md-left">

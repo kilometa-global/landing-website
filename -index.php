@@ -34,7 +34,7 @@
         <!-- Heading -->
         <h1 class="mb-7">
           It’s time to change your ride experience!
-          Safe and easy rides throughout North Carolina
+          Safe and easy rides throughout Nigeria
           On-demand rides for in-demand people
         </h1>
 

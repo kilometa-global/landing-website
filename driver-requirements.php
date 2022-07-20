@@ -76,31 +76,25 @@
                 <li class="list-styled-item">
                     <i class="fe fe-check mr-2 text-danger"></i>
                     <span>
-                        2008 or newer**
+                        2003 or newer**
                     </span>
                 </li>
                 <li class="list-styled-item">
                     <i class="fe fe-check mr-2 text-danger"></i>
                     <span>
-                        4 doors
+                        Load space with valid plate number
                     </span>
                 </li>
                 <li class="list-styled-item">
                     <i class="fe fe-check mr-2 text-danger"></i>
                     <span>
-                        5-8 seats, including the driver’s
-                    </span>
-                </li>
-                <li class="list-styled-item">
-                    <i class="fe fe-check mr-2 text-danger"></i>
-                    <span>
-                        North Carolina plates
+                    Vehicle documents and all documents that covers jurisdiction of your Transportation Services
                     </span>
                 </li>
                 <li class="list-styled-item">
                     <span>
                         <b>
-                            **Car year may vary by region
+                            **Vehicle year may vary by region
                         </b>
                     </span>
                 </li>
@@ -139,7 +133,7 @@
                 <li class="list-styled-item">
                     <i class="fe fe-check mr-2 text-danger"></i>
                     <span>
-                        North Carolina vehicle inspection
+                    Vehicle documents and all documents that covers jurisdiction of your Transportation Services
                     </span>
                 </li>
             </ul>
