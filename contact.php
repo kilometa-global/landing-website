@@ -22,7 +22,7 @@
 <!--Captcha-->
 
 
-<section class="py-15 mt-10" id="welcome"  data-jarallax data-speed=".8" style="background-image: url(img/c5.jpg);">
+<section class="py-15 mt-10" id="welcome" data-jarallax data-speed=".8" style="background-image: url(img/c5.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-7 col-lg-5 text-white">
@@ -53,7 +53,7 @@
                                                 Get In Touch With Us
                                             </h5>
                                             <p class="mb-0">
-                                                Have a question, inquiry or comment?  Feel free to contact us. Simply fill in the contact form or just select your preferred channel and send us a message. We’ll do everything we can to respond quickly. 
+                                                Have a question, inquiry or comment? Feel free to contact us. Simply fill in the contact form or just select your preferred channel and send us a message. We’ll do everything we can to respond quickly.
 
                                             </p>
                                             <br>
@@ -63,7 +63,7 @@
                                                 </strong>
                                                 <br>
                                                 <span class="text-black">
-                                                    60A/6A, Vilangurichi Road,Ramakrishnapuram, Saravanampatti,Coimbatore-641006.
+                                                    B1 Aka Plaza, East/West Road, Alakahia, Port Harcourt 500102 Nigeria.
                                                 </span>
                                             </p>
                                             <br>
@@ -74,19 +74,19 @@
                                                 <br>
                                                 <span class="text-black">
                                                     <!-- support@Kilometa.us -->
-                                                    Media Inquiries: <a href="mailto:media@Kilometa.us" style="color:blue">media@Kilometa.us</a>
-                                                </span> 
-                                                <br>
-                                                <span class="text-black">
-                                                   Partnership Inquiries: <a href="mailto:partner@Kilometa.us" style="color:blue"> partner@Kilometa.us</a>
+                                                    Media Inquiries: <a href="mailto:media@Kilometa.us" style="color:blue">media@kilometa.com</a>
                                                 </span>
                                                 <br>
                                                 <span class="text-black">
-                                                   File a complaint: <a href="mailto:compliance@Kilometa.us" style="color:blue"> compliance@Kilometa.us</a>
+                                                    Partnership Inquiries: <a href="mailto:partner@Kilometa.us" style="color:blue"> partner@kilometa.com</a>
                                                 </span>
                                                 <br>
-                                                 <span class="text-black">
-                                                    General Inquiries: <a href="mailto:info@Kilometa.us" style="color:blue"> info@Kilometa.us</a>
+                                                <span class="text-black">
+                                                    File a complaint: <a href="mailto:compliance@Kilometa.us" style="color:blue"> kilometa.com@kilometa.com</a>
+                                                </span>
+                                                <br>
+                                                <span class="text-black">
+                                                    General Inquiries: <a href="mailto:info@Kilometa.us" style="color:blue"> info@kilometa.com</a>
                                                 </span>
 
 
@@ -104,7 +104,9 @@
             </div>
             <div class="col-12 col-md-7 col-lg-8 wow fadeInLeft" data-wow-delay="0.3s">
 
-                <iframe style="width:100%; height:500px; border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3915.8124423896343!2d76.99306681417376!3d11.052684457057428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba85c1faf9dbe73%3A0x68dc9947d4882eff!2sTaxi%20Dispatch%20Software%2FSystem%20%7C%20White%20Label%20Taxi%20App%20-%20TagYourTaxi!5e0!3m2!1sen!2sin!4v1616142939290!5m2!1sen!2sin" width="600" height="450"></iframe>
+                <!-- <iframe style="width:100%; height:500px; border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3915.8124423896343!2d76.99306681417376!3d11.052684457057428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba85c1faf9dbe73%3A0x68dc9947d4882eff!2sTaxi%20Dispatch%20Software%2FSystem%20%7C%20White%20Label%20Taxi%20App%20-%20TagYourTaxi!5e0!3m2!1sen!2sin!4v1616142939290!5m2!1sen!2sin" width="600" height="450"></iframe> -->
+
+                <iframe style="width:100%; height:500px; border:0" id="gmap_canvas" src="https://maps.google.com/maps?q=4.885568,%206.931130&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="600" height="450"></iframe>
             </div>
             <div class="col-12 pt-3">
 
