@@ -82,7 +82,7 @@
                                                 </span>
                                                 <br>
                                                 <span class="text-black">
-                                                    File a complaint: <a href="mailto:compliance@Kilometa.us" style="color:blue"> kilometa.com@kilometa.com</a>
+                                                    File a complaint: <a href="mailto:compliance@Kilometa.us" style="color:blue"> info@kilometa.com</a>
                                                 </span>
                                                 <br>
                                                 <span class="text-black">
