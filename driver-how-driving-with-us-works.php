@@ -103,7 +103,7 @@
             </div>
             <div class="col-md-6 order-md-0 m-auto font-weight-lighter text-md-right pt-5 pt-md-10 text-left">
                 <h4>
-                    You can complete the application in the tyt Driver App
+                    You can complete the application in the Kilometa Driver App
                 </h4>
             </div>
         </div>

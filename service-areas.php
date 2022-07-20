@@ -26,8 +26,9 @@
                     Our Service Locations
                 </h2>
                 <p class="line-red-left">
-                    We cover all major cities and surrounding areas in North Carolina. For every destination in life, we will connect you to a reliable driver in minutes. Let us take you there
+                We cover all major cities and surrounding areas in Rivers State. For every destination in life, we will connect you to a reliable driver in minutes. Let us make it happen.
                 </p>
+                <p>Port Harcourt | Lagos | Owerri </p>
             </div>
         </div>
         <div class="row">

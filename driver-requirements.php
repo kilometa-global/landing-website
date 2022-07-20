@@ -58,7 +58,7 @@
                 <li class="list-styled-item">
                     <i class="fe fe-check mr-2 text-danger"></i>
                     <span>
-                        You must own an iPhone or Android smartphone that can download and run the tyt Driver app.
+                        You must own an iPhone or Android smartphone that can download and run the Kilometa Driver app.
                     </span>
                 </li>
             </ul>

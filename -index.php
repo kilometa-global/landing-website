@@ -61,7 +61,7 @@
     <div class="row">
       <div class="col-md-12 ml-auto pb-5">
         <h2 class="text-uppercase font-weight-bolder wow lightSpeedIn">
-          Why Ride with tyt
+          Why Ride with Kilometa
         </h2>
         <p class="wow lightSpeedIn">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae natus iure id obcaecati reprehenderit odio dolor, nostrum vero mollitia praesentium. Nulla, veniam. Est totam magni reprehenderit ipsum excepturi esse maiores.
@@ -77,7 +77,7 @@
             <img src="img/features/1.png" alt="" class="w-50 rounded-circle">
           </a>
           <p class="text-muted p-4 m-0 bg-white text-center" style="min-height: 300px;">
-            tyt is a rideshare platform facilitating peer to peer ridesharing by means of connecting passengers who are in need of rides from drivers with available cars to get from point A to point B with the press of a button. tyt is a clever 4 letter word that sounds like "easy" a fantastic connotation of effortless ease and accessibility to get you to your destination. tyt welcomes applicants year-round - summer, winter, fall, spring, and holiday work seekers.
+            Kilometa is a rideshare platform facilitating peer to peer ridesharing by means of connecting passengers who are in need of rides from drivers with available cars to get from point A to point B with the press of a button. Kilometa is a clever 4 letter word that sounds like "easy" a fantastic connotation of effortless ease and accessibility to get you to your destination. Kilometa welcomes applicants year-round - summer, winter, fall, spring, and holiday work seekers.
           </p>
         </div>
       </div>
@@ -91,7 +91,7 @@
           </a>
           <div>
             <p class="text-muted p-4 m-0 bg-white text-center" style="min-height: 300px;">
-              It’s our goal to create a flexible working environment that is inclusive and reflects the diversity of the cities we serve—where everyone can be their authentic self, and where that authenticity is celebrated as a strength. By creating an environment where people from every background can thrive, we’ll make tyt a better company—for our drivers and our customers.
+              It’s our goal to create a flexible working environment that is inclusive and reflects the diversity of the cities we serve—where everyone can be their authentic self, and where that authenticity is celebrated as a strength. By creating an environment where people from every background can thrive, we’ll make Kilometa a better company—for our drivers and our customers.
             </p>
           </div>
         </div>

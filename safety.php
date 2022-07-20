@@ -27,7 +27,7 @@
 <div class="container my-10">
     <div class="row">
         <div class="col-10 m-auto">
-            Due to the COVID-19 pandemic, tyt has updated health safety guidelines to help keep drivers and passengers safe. Under the new guidelines, drivers and passengers must stay home if they have COVID-19 or related symptoms, wear a face covering, keep the front seat empty, and roll windows down when possible. Drivers or passengers who repeatedly violate these new guidelines will be suspended. If a driver ever has a health safety concern, like someone not wearing a face covering, they can cancel the ride without incurring a fee.
+            Due to the COVID-19 pandemic, Kilometa has updated health safety guidelines to help keep drivers and passengers safe. Under the new guidelines, drivers and passengers must stay home if they have COVID-19 or related symptoms, wear a face covering, keep the front seat empty, and roll windows down when possible. Drivers or passengers who repeatedly violate these new guidelines will be suspended. If a driver ever has a health safety concern, like someone not wearing a face covering, they can cancel the ride without incurring a fee.
         </div>
     </div>
 </div>

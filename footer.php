@@ -7,7 +7,7 @@
             <img src="img/logo/logo.png" alt="Footer logo" style="height: 50px;">
           </a>
           <p class="pt-2">
-            tyt is a rideshare platform facilitating peer to peer ridesharing by means of connecting passengers who are in need of rides from drivers with available cars to get from point A to point B with the press of a button.
+          KiloMeta is a logistic rideshare platform facilitating peer to peer logistic ridesharing by means of connecting who need a logistic rides to drivers with available Vehicle to get from point A to point B with the press of a button.
           </p>
         </div>
         <div class="col-lg-2 col-sm-4 ml-lg-auto mb-5 mb-lg-0">
@@ -66,7 +66,7 @@
       <div class="row align-items-center justify-content-md-between py-4 mt-4 delimiter-top border-top">
         <div class="col-md-6">
           <div class="copyright font-size-xs text-center text-md-left">
-            © 2021 tyt, LLC All rights reserved.
+          © 2021 KiloMeta Technologies, LLC All rights reserved. 
             <a href="http://misoftwares.com/" target="blank" class="text-dark">
               Powered By Mi Softwares
             </a>
@@ -75,12 +75,12 @@
         <div class="col-md-6">
           <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
             <li class="nav-item">
-              <a class="nav-link" href="https://www.instagram.com/tyt_ride/ " target="_blank">
+              <a class="nav-link" href="https://www.instagram.com/kilometaapp " target="_blank">
                 <i class="fab fa-instagram text-white"></i>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://www.facebook.com/tyt-100545012150185" target="_blank">
+              <a class="nav-link" href="https://www.facebook.com/kilometaapp" target="_blank">
                 <i class="fab fa-facebook text-white"></i>
               </a>
             </li>

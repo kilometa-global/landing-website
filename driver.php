@@ -44,7 +44,7 @@
     <div class="row">
       <div class="col-12 text-center">
         <h2 class="text-uppercase font-weight-bolder">
-          Download the Driver tyt app Today
+          Download the Driver Kilometa app Today
         </h2>
         <div class="row">
           <div class="col-md-6 m-auto">
@@ -63,7 +63,7 @@
           </div>
         </div>
         <h5>
-          Good things happen when people can move, whether across town or toward their dreams. Opportunities appear, open up, become reality.
+        A connected world is a better world, Opportunities appear, open up, become reality.
         </h5>
       </div>
     </div>
@@ -93,7 +93,7 @@
               Download
             </h6>
             <p class=" mb-0 text-gray-500 ">
-              Download the tyt Driver App from the Google Play or App Store on your smartphone.
+              Download the Kilometa Driver App from the Google Play or App Store on your smartphone.
             </p>
           </div>
         </div>
@@ -141,7 +141,7 @@
     <div class="row">
       <div class="col-md-12 ml-auto pb-5">
         <h2 class="text-uppercase font-weight-bolder wow lightSpeedIn">
-          Why Drive with tyt
+          Why Drive with Kilometa
         </h2>
       </div>
 
@@ -154,7 +154,7 @@
             <img src="img/features/1.png" alt="" class="w-50 rounded-circle">
           </a>
           <p class="text-muted p-4 m-0 bg-white text-center" style="min-height: 300px;">
-            tyt is a rideshare platform facilitating peer to peer ridesharing by means of connecting passengers who are in need of rides from drivers with available cars to get from point A to point B with the press of a button. tyt is a clever 4 letter word that sounds like "easy" a fantastic connotation of effortless ease and accessibility to get you to your destination. tyt welcomes applicants year-round - summer, winter, fall, spring, and holiday work seekers.
+          KiloMeta is a logistic rideshare platform facilitating peer to peer logistic ridesharing by means of connecting who need a logistic rides to drivers with available Vehicle to get from point A to point B with the press of a button. Our solutions connect people and possibilities. Connecting people with goods, services and ideas creates opportunities and improves lives. At Kilometa, we believe that a connected world is a better world, and that belief guides everything we do.
           </p>
         </div>
       </div>
@@ -168,7 +168,7 @@
           </a>
           <div>
             <p class="text-muted p-4 m-0 bg-white text-center" style="min-height: 300px;">
-              It’s our goal to create a flexible working environment that is inclusive and reflects the diversity of the cities we serve—where everyone can be their authentic self, and where that authenticity is celebrated as a strength. By creating an environment where people from every background can thrive, we’ll make tyt a better company—for our drivers and our customers.
+            It’s our goal to create a flexible working environment that is inclusive and reflects the diversity of the cities we serve—where everyone can be their authentic self, and where that authenticity is celebrated as a strength. By creating an environment where people from every background can thrive, we’ll make Kilometa a better company—for our drivers and our customers. Our work every day to help you reach new territories, markets and grow your business. Or grateful for your love ones lets help you send a letter.
             </p>
           </div>
         </div>

@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="assets/css/theme.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
 
-  <title>tyt</title>
+  <title>Kilometa</title>
 
 </head>
 

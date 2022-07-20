@@ -8,7 +8,7 @@
                     <div class="card-body text-center">
                         <img src="img/logo-1.png" alt="" class="mb-5" style="max-width: 60px;border-radius: 50%;">
                         <h4 class="mb-5">
-                            Welcome back to tyt!
+                            Welcome back to Kilometa!
                         </h4>
                         <p>
                             We'll send a text to verify your phone.

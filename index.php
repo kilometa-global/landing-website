@@ -35,8 +35,7 @@
         <div class="col-md-6 py-10 py-md-0  m-auto">
             <div class="text-center">
                 <h1 class="text-white">
-                    It’s time to change your ride experience! <br>
-                    Download the tyt app Today
+                Connecting people with goods, services and ideas creates opportunities <br> to improves lives. Download Kilometa App Today.
                 </h1>
                 <div class="row">
                     <div class="col-md-6 mb-5 text-md-right">

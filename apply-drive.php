@@ -24,7 +24,7 @@
                     <div class="card-body text-center">
                         <img src="img/logo-1.png" alt="" class="mb-5" style="max-width: 60px;border-radius: 50%;">
                         <h4 class="mb-5">
-                            Welcome to tyt!
+                            Welcome to Kilometa!
                         </h4>
                         <form>
                             <div class="row">
@@ -48,7 +48,7 @@
                                         <div class="custom-control custom-checkbox">
                                             <input class="custom-control-input" id="loginRemember" type="checkbox">
                                             <label class="custom-control-label" for="loginRemember">
-                                                I agree to tyt’s <a href="#" class="text-dark text-decoration-underline">Terms of Service</a>
+                                                I agree to Kilometa’s <a href="#" class="text-dark text-decoration-underline">Terms of Service</a>
                                             </label>
                                         </div>
                                     </div>
