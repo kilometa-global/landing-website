@@ -55,6 +55,19 @@
   const app = initializeApp(firebaseConfig);
   const analytics = getAnalytics(app);
 </script>
+  
+  <!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-199236657-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-199236657-1');
+</script>
+  
+  
   <!-- NAVBAR -->
   <nav class="navbar navbar-expand-xl navbar-light fixed-top py-2 border-bottom" style="background-color: #fffffff7;">
     <div class="container-fluid">
